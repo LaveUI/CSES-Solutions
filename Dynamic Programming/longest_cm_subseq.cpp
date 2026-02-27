@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
-
+//solution
 int main(){
     ll n, m;
     cin >> n >> m;
